@@ -1,0 +1,37 @@
+04:52PM on March 30, 2019
+
+Start time = 0
+
+  platform: AMD64
+  version: 10.0.17763
+  system: Windows
+  processor: Intel64 Family 6 Model 60 Stepping 3, GenuineIntel
+
+  autoencoder_filename: models\simpleAE_autoencoder.h5
+  encoder_filename: models\simpleAE_encoder.h5
+  decoder_filename: models\simpleAE_decoder.h5
+  plot_filename_png: models\simpleAE_plot.png
+  plot_filename_pdf: models\simpleAE_plot.pdf
+  report_filename: models\simpleAE_report.txt
+
+  autoencoder_input_shape: (30000,)
+  autoencoder_output_shape: (30000,)
+    autoencoder.layers[0]: input=(30000,), output=(30000,)
+    autoencoder.layers[1]: input=(30000,), output=(128,)
+    autoencoder.layers[2]: input=(128,), output=(30000,)
+
+  encoder_input_shape: (30000,)
+  encoder_output_shape: (128,)
+    encoder.layers[0]: input=(30000,), output=(30000,)
+    encoder.layers[1]: input=(30000,), output=(128,)
+
+  decoder_input_shape: (128,)
+  decoder_output_shape: (30000,)
+    decoder.layers[0]: input=(128,), output=(128,)
+    decoder.layers[1]: input=(128,), output=(30000,)
+
+Start training = 0.5928905010223389
+
+
+End training = 1034.6385872364044
+
