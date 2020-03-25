@@ -2,3 +2,5 @@
 *.csv
 *.mp3
 *.wav
+*.bin
+*.model

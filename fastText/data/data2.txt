@@ -1,0 +1,132 @@
+614:10:AccessibleComputing
+614:12:Anarchism
+614:13:AfghanistanHistory
+614:14:AfghanistanGeography
+614:15:AfghanistanPeople
+614:18:AfghanistanCommunications
+614:19:AfghanistanTransportations
+614:20:AfghanistanMilitary
+614:21:AfghanistanTransnationalIssues
+614:23:AssistiveTechnology
+614:24:AmoeboidTaxa
+614:25:Autism
+614:27:AlbaniaHistory
+614:29:AlbaniaPeople
+614:30:AsWeMayThink
+614:35:AlbaniaGovernment
+614:36:AlbaniaEconomy
+614:39:Albedo
+614:40:AfroAsiaticLanguages
+614:42:ArtificalLanguages
+614:46:AbacuS
+614:47:AbalonE
+614:48:AbbadideS
+614:49:AbbesS
+614:50:AbbevilleFrance
+614:51:AbbeY
+614:52:AbboT
+614:53:Abbreviations
+614:54:AtlasShrugged
+614:56:ArtificialLanguages
+614:58:AtlasShruggedCharacters
+614:59:AtlasShruggedCompanies
+614:60:AyersMusicPublishingCompany
+614:241:AfricanAmericanPeople
+614:242:AdolfHitler
+614:247:AbeceDarians
+614:248:AbeL
+614:249:AbensbergGermany
+614:251:AberdeenSouthDakota
+614:254:ArthurKoestler
+614:255:AynRand
+614:256:AlexanderTheGreat
+614:258:AnchorageAlaska
+614:259:ArgumentForms
+614:260:ArgumentsForTheExistenceOfGod
+614:263:AnarchY
+614:264:AsciiArt
+614:269:AcademyAwards
+614:270:AcademyAwards/BestPicture
+614:271:AustriaLanguage
+614:272:AcademicElitism
+614:274:AxiomOfChoice
+614:276:AmericanFootball
+614:278:AmericA
+614:279:AnnaKournikova
+614:280:AndorrA
+614:287:AustroAsiaticLanguages
+614:289:ActresseS
+614:290:A
+614:291:AnarchoCapitalism
+614:293:AnarchoCapitalists
+614:296:ActressesS
+614:299:AnAmericanInParis
+614:301:AutoMorphism
+614:302:ActionFilm
+614:303:Alabama
+614:304:AfricA
+614:305:Achilles
+614:306:AppliedStatistics
+614:307:Abraham Lincoln
+614:308:Aristotle
+614:309:An American in Paris
+614:316:Academy Award for Best Production Design
+614:324:Academy Awards
+614:325:Action Film
+614:330:Actrius
+614:332:Animalia (book)
+614:334:International Atomic Time
+614:336:Altruism
+614:338:AutoRacing
+614:339:Ayn Rand
+614:340:Alain Connes
+614:344:Allan Dwan
+614:347:Algeria/People
+614:353:Algeria/Transnational Issues
+614:358:Algeria
+614:359:List of Atlas Shrugged characters
+614:369:Topics of note in Atlas Shrugged
+614:569:Anthropology
+614:572:Agricultural science
+614:573:Alchemy
+614:579:Alien
+614:580:Astronomer
+614:583:Ameboid stage
+614:586:ASCII
+614:589:Ashmore And Cartier Islands
+614:590:Austin (disambiguation)
+614:593:Animation
+614:594:Apollo
+614:595:Andre Agassi
+632867:596:Artificial languages
+632867:597:Austroasiatic languages
+632867:598:Afro-asiatic languages
+632867:599:Afroasiatic languages
+632867:600:Andorra
+632867:609:Andorra/Transnational issues
+632867:612:Arithmetic mean
+632867:615:American Football Conference
+632867:617:Albert Gore
+632867:618:AnEnquiryConcerningHumanUnderstanding
+632867:620:Animal Farm
+632867:621:Amphibian
+632867:622:Albert Arnold Gore/Criticisms
+632867:624:Alaska
+632867:626:Auteur Theory Film
+632867:627:Agriculture
+632867:628:Aldous Huxley
+632867:629:Abstract Algebra
+632867:630:Ada
+632867:632:Aberdeen (disambiguation)
+632867:633:Algae
+632867:634:Analysis of variance
+632867:635:ANOVA
+632867:639:Alkane
+632867:640:Appellate procedure in the United States
+632867:642:Answer (law)
+632867:643:Appellate court
+632867:644:Arithmetic and logic unit
+632867:648:Actress
+632867:649:Arraignment
+632867:651:America the Beautiful
+632867:653:Assistive technology
