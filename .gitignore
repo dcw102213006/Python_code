@@ -4,3 +4,8 @@
 *.wav
 *.bin
 *.model
+Annoy/test2_eulidean.ann
+*.ann
+fastText/.ipynb_checkpoints/
+Annoy/.ipynb_checkpoints/Example-checkpoint.ipynb
+Ultimate Guitar Crawler/.ipynb_checkpoints/
